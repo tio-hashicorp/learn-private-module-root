@@ -7,5 +7,4 @@ module "s3-bucket" {
   name    = var.name
   region  = var.region
   prefix  = var.prefix
-  version = "1.0.1"
 }
